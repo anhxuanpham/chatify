@@ -81,6 +81,54 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.3.1"
+  ffi:
+    dependency: transitive
+    description:
+      name: ffi
+      sha256: "13a6ccf6a459a125b3fcdb6ec73bd5ff90822e071207c663bfd1f70062d51d18"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.2.1"
+  file_picker:
+    dependency: "direct main"
+    description:
+      name: file_picker
+      sha256: b4841555c5b309a3af796cd9ef3db020ba79d2c54500796d4a2ed280869a80b2
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.1"
+  firebase:
+    dependency: transitive
+    description:
+      name: firebase
+      sha256: cbff777369d19bd0535ccca0005518172953394246620ff8c1021072299d452d
+      url: "https://pub.dev"
+    source: hosted
+    version: "9.0.3"
+  firebase_analytics:
+    dependency: "direct main"
+    description:
+      name: firebase_analytics
+      sha256: "53f0d6d8373f1fde9a5e76ef5979ab9e2d9f21bc224f23ccc3d6876153476670"
+      url: "https://pub.dev"
+    source: hosted
+    version: "8.3.1"
+  firebase_analytics_platform_interface:
+    dependency: transitive
+    description:
+      name: firebase_analytics_platform_interface
+      sha256: e67e8c3cbd2ceed02a90e2c7a413620a272f8755d81a04137ca071d74aed5bdb
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.1"
+  firebase_analytics_web:
+    dependency: transitive
+    description:
+      name: firebase_analytics_web
+      sha256: e368687277f8d44639f8b4b8d1877610834dfc0dbc9b3f4a58c0054d9f2900a8
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.0+1"
   firebase_auth:
     dependency: "direct main"
     description:
@@ -158,6 +206,30 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_keyboard_visibility:
+    dependency: "direct main"
+    description:
+      name: flutter_keyboard_visibility
+      sha256: b35a490198d6c191bcbdd9acb56f2bb9b8b3a5b6446d76b873c2d2e7d39fb013
+      url: "https://pub.dev"
+    source: hosted
+    version: "5.0.3"
+  flutter_keyboard_visibility_platform_interface:
+    dependency: transitive
+    description:
+      name: flutter_keyboard_visibility_platform_interface
+      sha256: e43a89845873f7be10cb3884345ceb9aebf00a659f479d1c8f4293fcb37022a4
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.0"
+  flutter_keyboard_visibility_web:
+    dependency: transitive
+    description:
+      name: flutter_keyboard_visibility_web
+      sha256: d3771a2e752880c79203f8d80658401d0c998e4183edca05a149f5098ce6e3d1
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.0"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -166,6 +238,22 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.2"
+  flutter_plugin_android_lifecycle:
+    dependency: transitive
+    description:
+      name: flutter_plugin_android_lifecycle
+      sha256: "950e77c2bbe1692bc0874fc7fb491b96a4dc340457f4ea1641443d0a6c1ea360"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.15"
+  flutter_spinkit:
+    dependency: "direct main"
+    description:
+      name: flutter_spinkit
+      sha256: "77a2117c0517ff909221f3160b8eb20052ab5216107581168af574ac1f05dff8"
+      url: "https://pub.dev"
+    source: hosted
+    version: "5.1.0"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -176,6 +264,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  get_it:
+    dependency: "direct main"
+    description:
+      name: get_it
+      sha256: "290fde3a86072e4b37dbb03c07bec6126f0ecc28dad403c12ffe2e5a2d751ab7"
+      url: "https://pub.dev"
+    source: hosted
+    version: "7.2.0"
   http:
     dependency: transitive
     description:
@@ -240,6 +336,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.1"
+  nested:
+    dependency: transitive
+    description:
+      name: nested
+      sha256: "03bac4c528c64c95c722ec99280375a6f2fc708eec17c7b3f07253b626cd2a20"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.0"
   path:
     dependency: transitive
     description:
@@ -256,6 +360,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.5"
+  provider:
+    dependency: "direct main"
+    description:
+      name: provider
+      sha256: "109bee81b76e9f175d70572e8d8160b224d7fda6152062423a4134d50fcdfbaa"
+      url: "https://pub.dev"
+    source: hosted
+    version: "6.0.0"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -309,6 +421,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.5.1"
+  timeago:
+    dependency: "direct main"
+    description:
+      name: timeago
+      sha256: "44002263fcbcd309162a87dcbb859477574b5d1555191a22b7201b3f14204924"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.1.0"
   typed_data:
     dependency: transitive
     description:
